@@ -1,2 +1,2 @@
 # AlexNet with MATLAB
-# Flowers Dataset (number of classes : 17)
+Flowers Dataset (number of classes : 17)
